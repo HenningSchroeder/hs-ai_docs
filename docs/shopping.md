@@ -5,7 +5,7 @@ _Automatisch kategorisiert via Voice Doc Assistant_
 ---
 
 ## 🥛 Kühlwaren
-- [ ] Beispiel-Item (per Sprache ersetzen)
+- [ ] Milch
 
 ## 🥖 Backwaren
 

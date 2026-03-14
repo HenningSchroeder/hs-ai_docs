@@ -15,6 +15,10 @@ _Automatisch kategorisiert via Voice Doc Assistant_
 
 ## 🧴 Drogerie
 
+## 🐾 Tierbedarf
+- [ ] Vogelfutter
+- [ ] Hühnerfutter
+
 ## 🛒 Sonstiges
 
 ---

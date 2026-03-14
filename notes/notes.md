@@ -4,6 +4,60 @@ _Allgemeine Notizen – per Sprache oder Text befüllt_
 
 ---
 
+# V-Model XT - Notiz
+
+## Was ist das V-Model XT?
+
+Das V-Model XT (eXTreme Tailoring) ist ein standardisiertes Vorgehensmodell für IT-Projekte, das ursprünglich für die deutsche Bundesverwaltung entwickelt wurde. Es ist die Weiterentwicklung des klassischen V-Modells.
+
+## Grundprinzipien
+
+- **Phasenmodell**: Strukturierte Abfolge von Projektphasen
+- **Qualitätssicherung**: Integrierte Test- und Prüfprozesse
+- **Tailoring**: Anpassbar an verschiedene Projektgrößen und -arten
+- **Dokumentationsorientiert**: Klare Dokumentationsanforderungen
+
+## Struktur
+
+### Linker V-Ast (Spezifikation/Entwicklung)
+- Anforderungsanalyse
+- Systemspezifikation
+- Architekturentwurf
+- Detailentwurf
+- Implementierung
+
+### Rechter V-Ast (Integration/Test)
+- Komponententest
+- Integrationstest
+- Systemtest
+- Abnahmetest
+
+## Vorteile
+
+- ✅ Hohe Planbarkeit und Transparenz
+- ✅ Umfassende Qualitätssicherung
+- ✅ Klare Rollen und Verantwortlichkeiten
+- ✅ Standardisierte Prozesse
+
+## Nachteile
+
+- ❌ Wenig flexibel bei Änderungen
+- ❌ Hoher Dokumentationsaufwand
+- ❌ Lange Entwicklungszyklen
+- ❌ Späte Nutzerfeedbacks
+
+## Anwendungsbereiche
+
+- Große, komplexe IT-Projekte
+- Projekte mit hohen Sicherheitsanforderungen
+- Behörden und öffentliche Verwaltung
+- Kritische Systeme
+
+---
+*Erstellt: 2026-03-14*
+
+---
+
 ## 2026-03-14 – Vorteile von Versionskontrolle
 
 Die drei wichtigsten Vorteile von Versionskontrolle sind:

@@ -4,6 +4,14 @@ _Neueste Ideen oben – automatisch via Voice Doc Assistant befüllt_
 
 ---
 
+## 2026-03-14 – Background-Tasks mit Live-Status und Kostenverfolgung implementiert
+
+Background-Tasks mit Live-Status und Kostenverfolgung implementiert.
+
+[#background-tasks #live-status #kostenverfolgung]
+
+---
+
 ## 2026-03-14 – End-to-End Voice Pipeline vollständig getestet und funktioniert
 
 End-to-End Voice Pipeline wurde erfolgreich getestet und ist voll funktionsfähig.
